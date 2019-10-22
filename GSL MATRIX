@@ -28,7 +28,9 @@
  * */
 size_t fib(size_t k)
 {
-	if (k==0)
+
+				*/ using forelse loop for verifying the the int condition and returns
+	if (k==0) 
 	{
 		return 0;
 	}
